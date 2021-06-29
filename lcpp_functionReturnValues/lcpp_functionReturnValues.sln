@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lcpp_functionReturnValues", "lcpp_functionReturnValues\lcpp_functionReturnValues.vcxproj", "{29639F00-9FCF-4367-A858-F6A570FA84E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29639F00-9FCF-4367-A858-F6A570FA84E3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{29639F00-9FCF-4367-A858-F6A570FA84E3}.Debug|Win32.Build.0 = Debug|Win32
+		{29639F00-9FCF-4367-A858-F6A570FA84E3}.Debug|x64.ActiveCfg = Debug|x64
+		{29639F00-9FCF-4367-A858-F6A570FA84E3}.Debug|x64.Build.0 = Debug|x64
+		{29639F00-9FCF-4367-A858-F6A570FA84E3}.Release|Win32.ActiveCfg = Release|Win32
+		{29639F00-9FCF-4367-A858-F6A570FA84E3}.Release|Win32.Build.0 = Release|Win32
+		{29639F00-9FCF-4367-A858-F6A570FA84E3}.Release|x64.ActiveCfg = Release|x64
+		{29639F00-9FCF-4367-A858-F6A570FA84E3}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+EndGlobal
