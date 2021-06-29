@@ -3,7 +3,7 @@
 #include <iostream>
 
 
-int add(int x, int y)
+int add(const int x, const int y)
 {
 #ifdef ENABLE_DEBUG
 std::cerr << "*debug* Adding values x: " << x << ", y: " << y << " *debug*";
@@ -11,7 +11,7 @@ std::cerr << "*debug* Adding values x: " << x << ", y: " << y << " *debug*";
     return x + y;
 }
 
-int subtract(int x, int y)
+int subtract(const int x, const int y)
 {
 #ifdef ENABLE_DEBUG
 std::cerr << "*debug* Subtracting values x: " << x << ", y: " << y << " *debug*";
@@ -19,7 +19,7 @@ std::cerr << "*debug* Subtracting values x: " << x << ", y: " << y << " *debug*"
     return x - y;
 }
 
-int multiply(int x, int y)
+int multiply(const int x,const int y)
 {
 #ifdef ENABLE_DEBUG
 std::cerr << "*debug* Multiplying values x: " << x << ", y: " << y << " *debug*";

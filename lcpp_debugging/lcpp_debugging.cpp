@@ -20,7 +20,7 @@ run_tests();
 
     std::cout << "The sum of both is: " << add(x, y) << ". \n";
     std::cout << "The product of both is: " << multiply(x, y) << ". \n";
-    std::cout << "Subracting these results in: " << subtract(x, y) << ". \n";
+    std::cout << "Subtracting these results in: " << subtract(x, y) << ". \n";
 }
 
 void run_tests()
