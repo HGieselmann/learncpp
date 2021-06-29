@@ -1,5 +1,5 @@
 ﻿#ifndef GETUSERNUMBER
 #define GETUSERNUMBER
-int getUserNumber();
+int get_user_number();
 
 #endif
