@@ -4,17 +4,8 @@
     <projectFile>lcpp_ballDroppingFromBuilding.vcxproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f3c3bd1-d992-41b9-a6de-3614b2e3bff9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.lcpp_ballDroppingFromBuilding/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.lcpp_ballDroppingFromBuilding/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculate_distance_to_ground.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculate_distance_to_ground.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/get_user_input.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/get_user_input.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lcpp_ballDroppingFromBuilding.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lcpp_ballDroppingFromBuilding.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lcpp_ballDroppingFromBuilding.vcxproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lcpp_ballDroppingFromBuilding.vcxproj.filters" afterDir="false" />
+    <list default="true" id="5f3c3bd1-d992-41b9-a6de-3614b2e3bff9" name="Default Changelist" comment="Removed unnecessary include">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.lcpp_ballDroppingFromBuilding/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.lcpp_ballDroppingFromBuilding/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,24 +15,30 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock://D:/Repositories/learncpp/lcpp_ballDroppingFromBuilding/calculate_distance_to_ground.cpp" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/get_user_input.cpp" />
       <option value="$PROJECT_DIR$/get_user_input.h" />
       <option value="$PROJECT_DIR$/calculate_fall_distance.h" />
       <option value="$PROJECT_DIR$/calculate_fall_distance.cpp" />
-      <option value="$PROJECT_DIR$/calculate_distance_to_ground.cpp" />
       <option value="$PROJECT_DIR$/calculate_distance_to_ground.h" />
       <option value="$PROJECT_DIR$/lcpp_ballDroppingFromBuilding.cpp" />
+      <option value="$PROJECT_DIR$/calculate_distance_to_ground.cpp" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1ugFoBk0IKCPGSO0MvOvf8ywBSM" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -104,8 +101,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1625079498244</updated>
-      <workItem from="1625079501487" duration="1222000" />
+      <workItem from="1625079501487" duration="2465000" />
     </task>
+    <task id="LOCAL-00001" summary="Added solution for ball dropping from building.">
+      <created>1625080929901</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1625080929901</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Removed unnecessary include">
+      <created>1625080979121</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1625080979121</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,6 +137,10 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Added solution for ball dropping from building." />
+    <MESSAGE value="Removed unnecessary include" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed unnecessary include" />
   </component>
 </project>
