@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lcpp_types", "lcpp_types\lcpp_types.vcxproj", "{8FFD43CA-DF6A-4AE7-B955-9F7726FEFAFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FFD43CA-DF6A-4AE7-B955-9F7726FEFAFE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8FFD43CA-DF6A-4AE7-B955-9F7726FEFAFE}.Debug|Win32.Build.0 = Debug|Win32
+		{8FFD43CA-DF6A-4AE7-B955-9F7726FEFAFE}.Debug|x64.ActiveCfg = Debug|x64
+		{8FFD43CA-DF6A-4AE7-B955-9F7726FEFAFE}.Debug|x64.Build.0 = Debug|x64
+		{8FFD43CA-DF6A-4AE7-B955-9F7726FEFAFE}.Release|Win32.ActiveCfg = Release|Win32
+		{8FFD43CA-DF6A-4AE7-B955-9F7726FEFAFE}.Release|Win32.Build.0 = Release|Win32
+		{8FFD43CA-DF6A-4AE7-B955-9F7726FEFAFE}.Release|x64.ActiveCfg = Release|x64
+		{8FFD43CA-DF6A-4AE7-B955-9F7726FEFAFE}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+EndGlobal
