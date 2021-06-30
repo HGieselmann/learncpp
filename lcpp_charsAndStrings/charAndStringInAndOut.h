@@ -1,0 +1,5 @@
+﻿#ifndef CHARANDSTRINGINANDOUT
+#define CHARANDSTRINGINANDOUT
+void runCode();
+
+#endif
