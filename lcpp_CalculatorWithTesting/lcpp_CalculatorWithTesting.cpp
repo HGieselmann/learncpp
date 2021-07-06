@@ -13,10 +13,10 @@ int main()
 #endif
 
     int x{get_user_integer()};
-    int y{get_user_integer()};
     char operation{get_user_operation()};
+    int y{get_user_integer()};
 
     int result{calculate(x, y, operation)};
-    std::cout << "The result is : " << result;
+    std::cout << x << " " << operation << " " << y << " = " << result;
     return 0;
 }
