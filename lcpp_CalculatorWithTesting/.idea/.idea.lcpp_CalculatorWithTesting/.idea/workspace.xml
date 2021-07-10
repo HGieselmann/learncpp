@@ -10,19 +10,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2396d5f-c90a-4ac1-958f-e73494f07048" name="Default Changelist" comment="Added a solution for a calculator with unit testing and basic error handling for zero division.">
+    <list default="true" id="d2396d5f-c90a-4ac1-958f-e73494f07048" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/x64/Release/lcpp_Cal.9DE82FE4.tlog/CL.command.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x64/Release/lcpp_Cal.9DE82FE4.tlog/CL.read.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x64/Release/lcpp_Cal.9DE82FE4.tlog/CL.write.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x64/Release/lcpp_Cal.9DE82FE4.tlog/lcpp_CalculatorWithTesting.lastbuildstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x64/Release/lcpp_Cal.9DE82FE4.tlog/lcpp_CalculatorWithTesting.write.1u.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x64/Release/lcpp_Cal.9DE82FE4.tlog/link.command.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x64/Release/lcpp_Cal.9DE82FE4.tlog/link.read.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x64/Release/lcpp_Cal.9DE82FE4.tlog/link.write.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x64/Release/lcpp_CalculatorWithTesting.exe.recipe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x64/Release/lcpp_CalculatorWithTesting.iobj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x64/Release/lcpp_CalculatorWithTesting.ipdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x64/Release/lcpp_CalculatorWithTesting.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x64/Release/lcpp_CalculatorWithTesting.vcxproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x64/Release/vc142.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.lcpp_CalculatorWithTesting/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.lcpp_CalculatorWithTesting/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lcpp_CalculatorWithTesting.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lcpp_CalculatorWithTesting.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/userInput.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/userInput.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/userInput.h" beforeDir="false" afterPath="$PROJECT_DIR$/userInput.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/x64/Debug/lcpp_Cal.9DE82FE4.tlog/CL.command.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/x64/Debug/lcpp_Cal.9DE82FE4.tlog/CL.command.1.tlog" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/x64/Debug/lcpp_Cal.9DE82FE4.tlog/CL.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/x64/Debug/lcpp_Cal.9DE82FE4.tlog/CL.read.1.tlog" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/x64/Debug/lcpp_Cal.9DE82FE4.tlog/CL.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/x64/Debug/lcpp_Cal.9DE82FE4.tlog/CL.write.1.tlog" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/x64/Debug/lcpp_Cal.9DE82FE4.tlog/link.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/x64/Debug/lcpp_Cal.9DE82FE4.tlog/link.read.1.tlog" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/x64/Debug/lcpp_CalculatorWithTesting.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/x64/Debug/lcpp_CalculatorWithTesting.ilk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/x64/Debug/lcpp_CalculatorWithTesting.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/x64/Debug/lcpp_CalculatorWithTesting.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/x64/Debug/vc142.idb" beforeDir="false" afterPath="$PROJECT_DIR$/x64/Debug/vc142.idb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/x64/Debug/vc142.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/x64/Debug/vc142.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +122,7 @@
       <updated>1625561226811</updated>
       <workItem from="1625561233102" duration="529000" />
       <workItem from="1625561795673" duration="2613000" />
-      <workItem from="1625564454278" duration="2697000" />
+      <workItem from="1625564454278" duration="4302000" />
     </task>
     <task id="LOCAL-00001" summary="Added a solution for a calculator with unit testing and basic error handling for zero division.">
       <created>1625572364817</created>
@@ -128,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625572364817</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added Input validation.">
+      <created>1625576713211</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1625576713211</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +162,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Added a solution for a calculator with unit testing and basic error handling for zero division." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added a solution for a calculator with unit testing and basic error handling for zero division." />
+    <MESSAGE value="Added Input validation." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Input validation." />
   </component>
 </project>
