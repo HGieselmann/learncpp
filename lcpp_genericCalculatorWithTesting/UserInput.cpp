@@ -2,11 +2,11 @@
 
 #include <iostream>
 
-auto get_number()
+double get_number()
 {
-    
     std::cout << "Please a number for calculation: \n";
-    // TODO grabbing a double, as a way to get any number... defeats the purpose of writing a calculator with templates 
+    // grabbing a double, as a way to get any number... kind of defeats the purpose of writing a calculator with templates
+    // but this cannot work any other way, as the compiler has to know the type
     double x {}; 
     std::cin >> x;
     return x;
